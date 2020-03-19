@@ -1,2 +1,2 @@
 # Habitizer
-ITCS 4155 proejct
+ITCS 4155 Project
